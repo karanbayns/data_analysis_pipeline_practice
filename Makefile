@@ -71,3 +71,4 @@ clean :
 		results/figure/last.png \
 		results/figure/sierra.png
 	rm -rf report/count_report.html
+	rm -r report/count_report_files
